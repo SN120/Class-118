@@ -22,6 +22,7 @@ body{
 .result_para_tag{
     font-size: 20px;
     box-shadow: 5px 5px 5px gray;
+    margin-top: 10px;
 }
 #copyright_footer{
     position: fixed;
